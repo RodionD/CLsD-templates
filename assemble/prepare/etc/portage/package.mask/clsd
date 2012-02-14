@@ -1,0 +1,4 @@
+# Calculate exists(/etc/portage/package.mask/clsd)==
+
+x11-libs/gksu
+kde-base/kdesu

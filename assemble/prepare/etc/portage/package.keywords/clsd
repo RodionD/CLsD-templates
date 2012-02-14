@@ -1,0 +1,16 @@
+# Calculate exists(/etc/portage/package.keywords.clsd)==
+
+x11-misc/obmenugen-bin ~#-os_assemble_gentoo_arch-#
+media-sound/deadbeef ~#-os_assemble_gentoo_arch-#
+x11-misc/obdevicemenu ~#-os_assemble_gentoo_arch-#
+www-client/firefox-bin ~#-os_assemble_gentoo_arch-#
+x11-misc/trayfreq **
+net-misc/aria2 ~#-os_assemble_gentoo_arch-#
+media-sound/volumeicon ~#-os_assemble_gentoo_arch-#
+app-portage/fetchcommandwrapper ~#-os_assemble_gentoo_arch-#
+x11-misc/tint2 **
+net-dialup/mkwvconf ~#-os_assemble_gentoo_arch-#
+net-dialup/qtwvdialer ~#-os_assemble_gentoo_arch-#
+x11-misc/spacefm ~#-os_assemble_gentoo_arch-#
+x11-misc/ktsuss ~#-os_assemble_gentoo_arch-#
+net-misc/wicd ~#-os_assemble_gentoo_arch-#

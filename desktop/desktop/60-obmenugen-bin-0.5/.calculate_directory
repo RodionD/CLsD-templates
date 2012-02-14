@@ -1,0 +1,1 @@
+# Calculate append=skip belong(obmenugen-bin)!=&&ini(update.obmenugen-bin)!=off&&ini(ver.obmenugen-bin)==&&pkg(x11-misc/obmenugen-bin)>=0.5

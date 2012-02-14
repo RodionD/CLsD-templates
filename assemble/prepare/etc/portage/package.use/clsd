@@ -1,0 +1,16 @@
+# Calculate exists(/etc/portage/package.use/clsd)==
+
+media-libs/libcanberra gtk
+x11-misc/xscreensaver jpeg
+net-im/pidgin gtk
+net-irc/xchat gtk
+media-fonts/terminus-font X pcf psf
+x11-misc/trayfreq autostart
+media-sound/deadbeef encode gtk cover curl lastfm thread
+net-misc/wicd gtk
+app-text/fbreader gtk
+net-wireless/blueman -network
+x11-libs/qt-gui qt3support
+x11-libs/qt-sql qt3support
+x11-libs/qt-core qt3support
+x11-misc/spacefm su
