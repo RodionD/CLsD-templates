@@ -27,7 +27,7 @@ item:editor
 #?os_locale_language=ru#
 raw:<menu execute="obdevicemenu" id="mounts" label="Внешние накопители"/>
 #os_locale_language#
-#?os_locale_language=!ru#
+#?os_locale_language!=ru#
 raw:<menu execute="obdevicemenu" id="mounts" label="Removable devices"/>
 #os_locale_language#
 item:runcommand
