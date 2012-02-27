@@ -12,7 +12,7 @@
 terminal = urxvt
 editor = urxvt -e mcedit
 filemanager = spacefm
-webbrowser = firefox-bin
+webbrowser = chromium
 instant messaging = pidgin
 run command = gmrun
 
