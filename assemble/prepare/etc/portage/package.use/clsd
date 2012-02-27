@@ -4,13 +4,22 @@ media-libs/libcanberra gtk
 x11-misc/xscreensaver jpeg
 net-im/pidgin gtk
 net-irc/xchat gtk
-media-fonts/terminus-font X pcf psf
 x11-misc/trayfreq autostart
-media-sound/deadbeef encode gtk cover curl lastfm thread
-net-misc/wicd gtk
-app-text/fbreader gtk
 net-wireless/blueman -network
 x11-libs/qt-gui qt3support
 x11-libs/qt-sql qt3support
 x11-libs/qt-core qt3support
 x11-misc/spacefm su
+dev-libs/apr -urandom
+media-sound/deadbeef gtk cdda cover imlib m3u threads zip cover encode lastfm curl
+www-client/chromium cups gnome-keyring
+sys-auth/pambase gnome-keyring
+net-print/gutenprint gimp
+app-text/fbreader -qt4 gtk
+net-im/pidgin networkmanager -gstreamer
+app-misc/screen multiuser
+media-gfx/imagemagick corefonts
+dev-lang/python sqlite
+net-misc/networkmanager-pptp gnome
+dev-util/boost-build python
+x11-terms/rxvt-unicode xft

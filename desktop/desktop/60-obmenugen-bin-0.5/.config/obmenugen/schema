@@ -24,6 +24,12 @@ raw:<item label="root Midnight Commanger"><action name="Execute"><execute>urxvt 
 item:webbrowser
 item:instantmessaging
 item:editor
+#?os_locale_language=ru#
+raw:<menu execute="obdevicemenu" id="mounts" label="Внешние накопители"/>
+#os_locale_language#
+#?os_locale_language=!ru#
+raw:<menu execute="obdevicemenu" id="mounts" label="Removable devices"/>
+#os_locale_language#
 item:runcommand
 submenu:windowsanddesktops
 sep:Applications

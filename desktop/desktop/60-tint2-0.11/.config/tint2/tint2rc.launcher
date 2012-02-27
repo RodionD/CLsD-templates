@@ -42,7 +42,7 @@ launcher_item_app = /usr/share/applications/calculate-writer.desktop
 launcher_item_app = /usr/share/applications/calculate-calc.desktop
 launcher_item_app = /usr/share/applications/evince.desktop
 launcher_item_app = /usr/share/applications/xnview-xnviewmp.desktop
-launcher_item_app = /usr/share/applications/pcmanfm.desktop
+launcher_item_app = /usr/share/applications/spacefm.desktop
 
 # Panel Autohide
 autohide = 1
