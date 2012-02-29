@@ -86,6 +86,7 @@ clock_font_color = #FFFFFF 100
 clock_tooltip = 
 clock_padding = 0 0
 clock_background_id = 0
+clock_lclick_command = gsimplecal
 
 # Tooltips
 tooltip = 0
