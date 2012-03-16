@@ -11,4 +11,4 @@ x11-misc/tint2 **
 x11-misc/spacefm ~#-os_assemble_gentoo_arch-#
 sys-apps/clsd-templates ~#-os_assemble_gentoo_arch-#
 media-gfx/mcomix ~#-os_assemble_gentoo_arch-#
-
+dev-util/gsimplecal ~#-os_assemble_gentoo_arch-#

@@ -23,3 +23,4 @@ dev-lang/python sqlite
 net-misc/networkmanager-pptp gnome
 dev-util/boost-build python
 x11-terms/rxvt-unicode xft
+net-wireless/madwifi-ng kernel_linux
