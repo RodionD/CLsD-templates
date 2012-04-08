@@ -26,3 +26,4 @@ x11-terms/rxvt-unicode xft
 net-wireless/madwifi-ng kernel_linux
 x11-misc/xscreensaver -jpeg
 media-sound/deadbeef -ffmpeg
+media-plugins/audacious-plugins cdda
