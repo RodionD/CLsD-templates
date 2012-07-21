@@ -23,7 +23,7 @@ lock command = xscreensaver-command -lock
 # Exit menuitem
 # Giving this an empty value don't hides the menuitem
 # but uses the default OpenBox action "Exit"
-exit command = gxshutdown
+exit command = ~/bin/gxshutdown
 
 # OnlyShowIn Exclusions
 # There is a 'OnlyShowIn' directive in .desktop files.
