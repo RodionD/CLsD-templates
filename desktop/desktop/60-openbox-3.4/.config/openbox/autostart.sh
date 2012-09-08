@@ -9,3 +9,4 @@ xxkb &
 #os_locale_language#
 parcellite &
 volumeicon &
+sudo tinymount &
