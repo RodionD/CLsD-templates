@@ -302,7 +302,7 @@
     </keybind>
     <keybind key="0x7C">
       <action name="Execute">
-        <command>gxshutdown</command>
+        <command>obshutdown</command>
       </action>
     </keybind>
     <keybind key="0xB3">
