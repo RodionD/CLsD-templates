@@ -29,3 +29,4 @@ media-plugins/audacious-plugins cdda
 net-libs/glib-networking -gnome
 x11-wm/openbox imlib
 lxde-base/lxdm gtk3 nls pam
+net-misc/networkmanager bluetooth connection-sharing dhcpcd introspection kernel_linux modemmanager nss ppp wext wimax
