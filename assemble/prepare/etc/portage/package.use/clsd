@@ -18,7 +18,6 @@ app-text/fbreader -qt4 gtk
 net-im/pidgin networkmanager -gstreamer
 app-misc/screen multiuser
 media-gfx/imagemagick corefonts
-dev-lang/python sqlite
 net-misc/networkmanager-pptp gnome
 dev-util/boost-build python
 x11-terms/rxvt-unicode xft
@@ -29,3 +28,5 @@ net-libs/glib-networking -gnome
 x11-wm/openbox imlib
 lxde-base/lxdm gtk3 nls pam
 net-misc/networkmanager bluetooth connection-sharing dhcpcd introspection kernel_linux modemmanager nss ppp wext wimax
+media-sound/audacious chardet
+app-text/evince dbus djvu gnome-keyring introspection postscript tiff
