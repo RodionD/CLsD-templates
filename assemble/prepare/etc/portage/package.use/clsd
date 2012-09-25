@@ -5,7 +5,6 @@ x11-misc/xscreensaver jpeg
 net-im/pidgin gtk
 net-irc/xchat gtk
 x11-misc/trayfreq autostart
-net-wireless/blueman -network
 x11-libs/qt-gui qt3support
 x11-libs/qt-sql qt3support
 x11-libs/qt-core qt3support
