@@ -1,1 +1,1 @@
-# Calculate append=skip belong(obshutdown)!=&&ini(update.obshutdown)!=off&&ini(ver.obshutdown)==&&pkg(x11-misc/obshutdown)=9999
+# Calculate belong()!=&&pkg(x11-misc/obshutdown)!= append=skip
