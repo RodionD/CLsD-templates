@@ -25,7 +25,7 @@ net-wireless/madwifi-ng kernel_linux
 x11-misc/xscreensaver -jpeg
 media-plugins/audacious-plugins cdda
 net-libs/glib-networking -gnome
-x11-wm/openbox imlib
+x11-wm/openbox imlib python
 lxde-base/lxdm gtk3 nls pam
 net-misc/networkmanager bluetooth connection-sharing dhcpcd introspection kernel_linux modemmanager nss ppp wext wimax
 media-sound/audacious chardet
