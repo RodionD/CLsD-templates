@@ -1,7 +1,6 @@
 # Calculate exists(/etc/portage/package.use/clsd)==
 
 media-libs/libcanberra gtk
-x11-misc/xscreensaver jpeg
 net-im/pidgin gtk
 net-irc/xchat gtk
 x11-misc/trayfreq autostart
