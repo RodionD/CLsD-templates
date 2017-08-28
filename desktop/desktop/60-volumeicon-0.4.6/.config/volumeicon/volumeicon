@@ -1,4 +1,0 @@
-# Calculate format=samba
-
-[StatusIcon]
-onclick=urxvt -e 'alsamixer'

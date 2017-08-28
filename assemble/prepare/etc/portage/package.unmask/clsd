@@ -1,3 +1,1 @@
-# Calculate exists(/etc/portage/package.unmask/clsd)==
-
-=x11-misc/tint2-9999
+x11-misc/tinymount
